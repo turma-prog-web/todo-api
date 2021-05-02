@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b141ae0e-1b9b-42d9-8870-0a73b0e6ba59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todo_api/config/http/cors.clj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.clj" beforeDir="false" afterPath="$PROJECT_DIR$/project.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todo_api/handler.clj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/todo_api/main.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_api/main.clj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619939520029</updated>
-      <workItem from="1619939522911" duration="715000" />
+      <workItem from="1619939522911" duration="1797000" />
     </task>
     <servers />
   </component>
