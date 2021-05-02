@@ -4,15 +4,12 @@
             [ring.middleware.json :refer [wrap-json-response]]
             [ring.adapter.jetty :as jetty]
             [clojure.walk :refer [prewalk prewalk-demo]]
-            [todo-api.config.http.cors :as cors])
+            [todo-api.config.http.cors :as cors]
+            [todo-api.tasks.route :refer :all])
   (:gen-class :main true))
 
-
-(defroutes default
-           (route/resources "/")
-           (route/not-found "Not Found"))
 (def app
-  (-> (routes default)
+  (-> (routes task-routes)
       (wrap-json-response)
       (cors/wrap-response-cors)))
 
