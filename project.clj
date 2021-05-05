@@ -17,3 +17,7 @@
   :profiles
   {:dev {:dependencies [[javax.servlet/servlet-api "2.5"]
                         [ring/ring-mock "0.3.2"]]}})
+
+
+;;lein with-profile native do clean, test, uberjar
+;;docker build -t leafclick/pgmig
