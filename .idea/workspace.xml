@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="b141ae0e-1b9b-42d9-8870-0a73b0e6ba59" name="Default Changelist" comment="" />
+=======
     <list default="true" id="b141ae0e-1b9b-42d9-8870-0a73b0e6ba59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/todo_api/config/database/conn.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/todo_api/shared/http_utils.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/migrations/20210505053836-create-tbl-tasks.down.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/migrations/20210505053836-create-tbl-tasks.up.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_api/main.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_api/main.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_api/tasks/route.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_api/tasks/route.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_api/tasks/service.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_api/tasks/service.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.clj" beforeDir="false" afterPath="$PROJECT_DIR$/project.clj" afterDir="false" />
     </list>
+>>>>>>> 03cdfd9... creating migrations strategy
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +87,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619939520029</updated>
-      <workItem from="1619939522911" duration="5686000" />
+      <workItem from="1619939522911" duration="6009000" />
+      <workItem from="1620013490517" duration="126000" />
+      <workItem from="1620190675631" duration="6204000" />
     </task>
     <servers />
   </component>
@@ -101,5 +106,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
