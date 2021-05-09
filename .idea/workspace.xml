@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b141ae0e-1b9b-42d9-8870-0a73b0e6ba59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/todo_api/config/database/conn.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/todo_api/shared/http_utils.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_api/main.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_api/main.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_api/tasks/route.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_api/tasks/route.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_api/tasks/service.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_api/tasks/service.clj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,5 +97,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
